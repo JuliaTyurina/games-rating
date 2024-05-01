@@ -1,0 +1,23 @@
+{
+  "name": "game-rating",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliaTyurina/game-rating.git"
+  },
+  "author": "JuliaTyurina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliaTyurina/game-rating/issues"
+  },
+  "homepage": "https://github.com/JuliaTyurina/game-rating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
